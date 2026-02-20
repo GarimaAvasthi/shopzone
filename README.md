@@ -2,6 +2,9 @@
 
 A modern, responsive e-commerce web application built with React and Vite. ShopZone provides a seamless shopping experience with product browsing, cart management, and checkout functionality.
 
+Link to vercel app: https://shopzone-liart.vercel.app/
+
+
 Features:
 
  **Category Browsing**: Quick access to different product categories (Electronics, Fashion, Home, Sports)
